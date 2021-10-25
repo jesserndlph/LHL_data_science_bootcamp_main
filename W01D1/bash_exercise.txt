@@ -1,0 +1,32 @@
+
+## Use this file to document the commands and write the results you get.
+
+
+
+#### 1. Download the data from https://drive.google.com/open?id=1TNZiSaNmcDbZ7fglKY7lPhni3ucD5Qn3
+
+
+#### 2. How many rows does the dataset have?
+
+
+#### 3. Change the delimiter to ";"
+
+
+#### 4. Output the header into the separate file cast_header.csv and remove it from the data
+
+ 
+#### 5. How many movies did Pierce Brosnan play in?
+
+
+#### 6. Were there more superman movies or batman movies?
+
+
+#### 7. How many roles are in this database?
+
+
+#### 8. What is the most often played role?
+
+
+#### 9. What is the most frequent movie name?
+
+

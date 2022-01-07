@@ -1,2 +1,2 @@
 # Lighthouse-Labs_bootcamp-main
-All files, assignments, and projects created during my time in the bootcamp.
+All files, and assignments created during my time in Lighthouse Lab's Data Science bootcamp.
